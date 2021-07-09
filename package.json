@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@polkadot/api": "^0.81.1",
-    "@polkadot/extension-dapp": "^0.4.1",
+    "@polkadot/extension-dapp": "^0.38.5",
     "cdxjs": "^1.0.22",
     "core-js": "^2.6.5",
     "element-ui": "^2.10.1",
